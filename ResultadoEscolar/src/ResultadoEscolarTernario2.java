@@ -1,5 +1,3 @@
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
-
 public class ResultadoEscolarTernario2 {
     public static void main(String[] args) {
         int nota = 4;
